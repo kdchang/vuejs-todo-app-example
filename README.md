@@ -1,6 +1,11 @@
-# vue-todo-app
+# Vue JS Todo App example
 
-> A Vue.js project
+> This is a todo app example implement via Vue.js & Vue CLI
+
+
+## Package
+1. moment
+2. vee-validate
 
 ## Build Setup
 
